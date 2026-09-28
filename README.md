@@ -11,7 +11,7 @@ An interactive, motion-based Rock-Paper-Scissors game built for the BBC micro:bi
 ## MakeCode Block Diagram
 Below is the logic implemented using Microsoft MakeCode blocks:
 
-![MakeCode Blocks](./blocks-code.png)
+![MakeCode Blocks](./blocks-code.jpeg)
 
 ## How It Works
 1. Shake the micro:bit to trigger the game.
